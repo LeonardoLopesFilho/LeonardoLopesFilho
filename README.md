@@ -2,7 +2,7 @@
 I have 19 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **Help Desk**
-- :student: I’m currently learning Lumen 
+- :student: I’m currently learning Lumen & doing my end-of-course project
 - :video_game: :soccer: Fun fact: I'm the new neymar from games
 
 I’m developer since 2018 with PHP and MySQL database, and back-end develop with Java.
