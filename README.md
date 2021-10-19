@@ -7,7 +7,7 @@ I have 19 years old, and I’m studant of systems analysis and development.
 
 I’m developer since 2018 with PHP and MySQL database, and back-end develop with Java.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/LeonardoLopesFilho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLopesFilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLopesFilho&layout=compact&langs_count=7&theme=dark"/>
