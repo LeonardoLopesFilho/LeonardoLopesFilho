@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my developer profile 👨‍💻
-I have 19 years old, and I’m studant of systems analysis and development.
+I have 20 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **Help Desk**
 - :student: I’m currently learning Lumen & doing my end-of-course project
