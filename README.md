@@ -2,7 +2,7 @@
 I have 20 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **Help Desk**
-- :student: I’m currently learning VueJs
+- :student: I’m currently learning **VueJs**
 - :video_game: :soccer: Fun fact: I'm the new neymar from games
 
 I’m developer since 2018 with PHP and MySQL database, and back-end develop with Java.
