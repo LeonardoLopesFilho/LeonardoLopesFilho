@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my developer profile 👨‍💻
 I have 20 years old, and I’m studant of systems analysis and development.
 
-- :man_technologist: I’m currently working on **Help Desk**
+- :man_technologist: I’m currently working on **DevOps**
 - :student: I’m currently learning **VueJs**
 - :video_game: :soccer: Fun fact: I'm the new neymar from games
 
