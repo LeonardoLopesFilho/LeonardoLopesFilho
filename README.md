@@ -2,8 +2,9 @@
 I have 20 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **DevOps**
-- :student: I’m currently learning **Power BI**
+- :student: I’m currently learning **JavaScript and WordPress**
 - :video_game: :soccer: Fun fact: I'm the new neymar from games
+- :dizzy: : Now I know how to make beautiful reports in power bi
 
 I’m developer since 2018 with PHP and MySQL database, and back-end develop with Java.
   
