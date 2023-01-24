@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my developer profile 👨‍💻
-I have 20 years old, and I’m studant of systems analysis and development.
+I have 21 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **DevOps**
 - :student: I’m currently learning **JavaScript and WordPress**
