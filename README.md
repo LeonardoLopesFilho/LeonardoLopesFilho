@@ -2,7 +2,7 @@
 I have 21 years old, and I’m studant of systems analysis and development.
 
 - :man_technologist: I’m currently working on **DevOps**
-- :student: I’m currently learning **JavaScript and Angular**
+- :student: I’m currently learning **JavaScript and Vue**
 - :video_game: :soccer: Fun fact: I'm the new neymar from games
 - :dizzy: : Now I know how to make beautiful reports in power bi
 
