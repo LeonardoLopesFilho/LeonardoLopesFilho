@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋 Welcome to my developer profile 👨‍💻
-I have 21 years old, and I’m studant of systems analysis and development.
+I have 22 years old, and I’m studant of systems analysis and development.
 
 👨‍💻 I’m currently working on Web Developer <br>🧑‍🎓 I’m currently learning JavaScript and Vue<br>🎮 ⚽ Fun fact: I support Coritiba Football Club<br>💫 : Now I know how to make film covers in AI
 
