@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning AWS and improving my English<br>🎯 Goals: Become a great programmer, build a solid portfolio website, and achieve success in my career<br>🎲 Fun fact: I love playing career mode in EAFC and also play bass in my free time</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently learning AWS and improving my English<br>🎯 Goals: Become a great programmer, build a solid portfolio website, and achieve success in my career<br>
 
 ###
 
